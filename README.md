@@ -6,10 +6,10 @@ Used for timesync on mac.
 
 Libraries needed: 
 
-Zeep
+Python
+- Zeep
+- Spyne
+- lxml
 
-Spyne
-
-lxml
-
-coreutils (from brew)
+MacOS
+- coreutils (from brew)
